@@ -5,6 +5,8 @@
 
 ### API Calling
 
+- in cmd type "ipconfig" and copy the address of your Ethernet adapter: IPV4 Address
+
 ~~~
 http://X.X.X.X:8080/randomrabbit
 
