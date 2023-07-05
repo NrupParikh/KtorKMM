@@ -4,6 +4,8 @@
 
 - **KMM**
   - Kotlin Multiplatform for mobile
+  - Kotlin Multiplatform technology simplifies the development of cross-platform projects.
+  - The Kotlin applications will work on different operating systems like iOS, Android, macOS, Windows, Linux, watchOS, and others.
 - **Ktor**
   - Framework to build connected applications - web app, HTTP services, Mobile and browser app
 - **Natty**
