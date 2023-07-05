@@ -11,7 +11,7 @@
   - This server configuration includes an engine, host, port , SSL settings etc.
   - Natty is engine which we are using here.
   - Other engines Ktor supports are Jetty, Tomcat, CIO, ServletApplicationEngine
-  - Natty use JVM platform and HTTP/2 protocol
+  - Natty uses JVM platform and HTTP/2 protocol
   
 ### What this repo includes
 
